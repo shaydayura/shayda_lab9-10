@@ -17,7 +17,7 @@ export const trains = [
   {
     id: "2",
     number: "715К",
-    from: "Київ",
+    from: "Умань",
     to: "Львів",
     departureDate: "2026-06-13",
     departureTime: "06:50",
@@ -47,7 +47,7 @@ export const trains = [
     id: "4",
     number: "026Ш",
     from: "Одеса",
-    to: "Львів",
+    to: "Запоріжжя",
     departureDate: "2026-06-15",
     departureTime: "18:30",
     duration: "10 год 20 хв",

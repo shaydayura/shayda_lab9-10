@@ -19,7 +19,10 @@ function Home() {
     <main className="page">
       <section className="hero-section">
         <p className="subtitle">Укрзалізниця</p>
-        <h1>Пошук і бронювання залізничних квитків</h1>
+        <h1>
+            <span>Пошук і бронювання</span>
+            <span>залізничних квитків</span>
+        </h1>
         <p className="description">
           Оберіть потрібний рейс, перегляньте маршрут, час відправлення
           та перейдіть до вибору місць у вагоні.
